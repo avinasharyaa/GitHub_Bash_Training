@@ -1,0 +1,409 @@
+    1  ls
+    2  git
+    3  pwd
+    4  giy config --global
+    5  giy config --global user.name "Avinash"
+    6  git config --global user.name "Avinash"
+    7  git config --global user.email "avinasharya884@gmail.com"
+    8  git config --list
+    9  clear
+   10  git config code.editor vim
+   11  git config core.editor vim
+   12  git config --global core.editor vim
+   13  git config user.name
+   14  git config user.email
+   15  history
+   16  LS
+   17  LS
+   18  pwd
+   19  cd Desktop
+   20  cd Desktops
+   21  ls
+   22  cd Downloads
+   23  ls
+   24  cd ..
+   25  cd Documents
+   26  cd Document
+   27  cd Documents
+   28  clear
+   29  ls
+   30  history > 2lacture
+   31  cd ..
+   32  cd Video
+   33  cd Videos
+   34  ls
+   35  clear
+   36  history >2lacture.txt
+   37  git
+   38  clear
+   39  git status
+   40  clear
+   41  ls
+   42  cd ..
+   43  cd Desktop
+   44  cd Desktops
+   45  cd Videos
+   46  clear
+   47  ls
+   48  clear
+   49  git init
+   50  cd ..
+   51  ls
+   52  cd C:\Users\avina\OneDrive\Desktop\GIT
+   53  cd C:\Users\avina\OneDrive\Desktop\GIT
+   54  cd \OneDrive\Desktop\GIT
+   55  cd OneDrive\Desktop\GIT
+   56  cd OneDrive
+   57  ls
+   58  cd Desktop
+   59  clear
+   60  ls
+   61  cd GIT
+   62  clear
+   63  ls
+   64  git init
+   65  git statuss
+   66  git status
+   67  git add -a
+   68  git add --a
+   69  git status
+   70  git commit -m "Initial Commit"
+   71  git status
+   72  git log
+   73  git status
+   74  git status
+   75  git add file.txt.txt
+   76  git status
+   77  git commit -m "Change file.txt"
+   78  git status
+   79  git add --a
+   80  git status
+   81  git commit -m "This is modified db"
+   82  git status
+   83  git log
+   84  ls
+   85  dir
+   86  cd Downloads/
+   87  clear
+   88  
+   89  clear
+   90  cd downloads
+   91  ls
+   92  ssh -i "redhat_devops_ansiable.pem" ec2-user@ec2-13-235-115-66.ap-south-1.compute.amazonaws.com
+   93  ls
+   94  dir
+   95  ssh -i "redhat_devops_ansiable.pem" ec2-user@ec2-13-235-115-66.ap-south-1.compute.amazonaws.com
+   96  cd ..
+   97  ls
+   98  cd Downloads
+   99  ls
+  100  ssh -i "redhat_devops_ansiable.pem" ec2-user@ec2-13-235-115-66.ap-south-1.compute.amazonaws.com
+  101  dir
+  102  ls | aws
+  103  ls | grep "aws"
+  104  ls | grep "redhat"
+  105  ssh -i "redhat_devops_ansiable.pem" ec2-user@ec2-13-235-115-66.ap-south-1.compute.amazonaws.com
+  106  cd Download
+  107  cd Downloads
+  108  cd Downloads
+  109  ssh -i "redhat_ansible.pem" ec2-user@ec2-65-0-130-213.ap-south-1.compute.amazonaws.com
+  110  ssh -i "redhat_ansible.pem" ec2-user@ec2-65-0-130-213.ap-south-1.compute.amazonaws.com
+  111  ssh -i "redhat_ansible.pem" ec2-user@ec2-65-0-130-213.ap-south-1.compute.amazonaws.com
+  112  ssh -i "redhat_ansible.pem" ec2-user@ec2-65-0-130-213.ap-south-1.compute.amazonaws.com
+  113  ssh -i "redhat_ansible.pem" ec2-user@ec2-65-0-130-213.ap-south-1.compute.amazonaws.com
+  114  cd Downloads
+  115  clear
+  116  TN 1
+  117  ssh -i "redhat_ansible.pem" ec2-user@ec2-3-110-193-168.ap-south-1.compute.amazonaws.com
+  118  ssh -i "redhat_ansible.pem" ec2-user@ec2-3-110-193-168.ap-south-1.compute.amazonaws.com
+  119  ssh -i "redhat_ansible.pem" ec2-user@ec2-3-110-193-168.ap-south-1.compute.amazonaws.com
+  120  ssh
+  121  locate ssh
+  122  cd /etc/
+  123  ls
+  124  cd /ssh
+  125  cd ssh
+  126  ls
+  127  vim ssh_config
+  128  vim sshd_config
+  129  sc[
+  130  scp
+  131  ls
+  132  scp python3.py 192.168.238.139:/root
+  133  cd OneDrive/
+  134  ls
+  135  cd DesktoP
+  136  LS
+  137  cd 'ARTH 4.0'/
+  138  cd PYTHON/
+  139  clear
+  140  ls
+  141  cd mydir123
+  142  dir
+  143  head -2 lw123.txt 
+  144  head -4 lw123.txt 
+  145  wc -l lw123.txt 
+  146  cd Downloads
+  147  dir
+  148  clear
+  149  dir
+  150  clear
+  151  ssh jack@192.168.238.139
+  152  clear
+  153  ssh-keygen.exe
+  154  ssh-copy-id jack@192.168.238.139
+  155  ssh jack@192.168.238.139
+  156  ssh jack@192.168.238.139
+  157  ssh jack@192.168.238.139
+  158  pwd
+  159  cd .ssh/
+  160  ls
+  161  notepad id_rsa
+  162  ssh jack@192.168.238.139
+  163  ssh jack@192.168.238.139
+  164  cls
+  165  clear
+  166  ls
+  167  cat id_rsa.pub
+  168  cd Downloads
+  169  
+  170  clear
+  171  ssh -i "redhat_ansible.pem" ec2-user@ec2-13-235-247-238.ap-south-1.compute.amazonaws.com
+  172  cd Downloads
+  173  [200~ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com~
+  174  ~ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com~
+  175  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com~
+  176  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  177  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  178  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  179  cd Downloads
+  180  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  181  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  182  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  183  clear
+  184  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  185  ssh -i "docker_Redhat.pem" ec2-user@ec2-3-109-181-207.ap-south-1.compute.amazonaws.com
+  186  cd OneDrive/
+  187  cd Desktop
+  188  cd 'Arth'
+  189  cd 'Arth4.0'
+  190  cd 'Arth-4.0'
+  191  dir
+  192  cd ARTH\ 4.0
+  193  cd ARTH\ 4.0
+  194  cd ARTH 4.0
+  195  cd 'ARTH 4.0'
+  196  dir
+  197  cd Downloads
+  198  ssh -i "redhat_ansible.pem" ec2-user@ec2-13-233-92-254.ap-south-1.compute.amazonaws.com
+  199  s
+  200  ssh -i "redhat_ansible.pem" ec2-user@ec2-13-233-92-254.ap-south-1.compute.amazonaws.com
+  201  ssh -i "redhat_ansible.pem" ec2-user@ec2-13-233-92-254.ap-south-1.compute.amazonaws.com
+  202  ssh -i "redhat_ansible.pem" ec2-user@ec2-13-233-92-254.ap-south-1.compute.amazonaws.com
+  203  ssh -i "redhat_ansible.pem" ec2-user@ec2-13-233-92-254.ap-south-1.compute.amazonaws.com
+  204  ls
+  205  cd OneDrive/
+  206  dir
+  207  cd ..
+  208  cd Downloads/
+  209  ls
+  210  clear
+  211  ssh -i "ansible_08/12/2023.pem" ec2-user@ec2-13-201-2-95.ap-south-1.compute.amazonaws.com
+  212  ls
+  213  cd 
+  214  cd 
+  215  ls
+  216  cd /home
+  217  cd users
+  218  ls
+  219  ls
+  220  git --verions
+  221  git --version
+  222  git
+  223  ls
+  224  cd Music
+  225  ls
+  226  cd GIT\ BASH/
+  227  ls
+  228  touch a.txt
+  229  ls
+  230  cat a.txt 
+  231  vim a.txt
+  232  cat a.txt
+  233  git config
+  234  git config --help
+  235  git config list
+  236  git config --global user.name "avinasharyaa"
+  237  git config list
+  238  git config --global -l
+  239  git config --global user.email "avinasharya844@gmail.com"
+  240  git config --global -l
+  241  git help
+  242  git --help
+  243  clear
+  244  git config --global -l
+  245  ls -a
+  246  git init
+  247  ls -a
+  248  cd .git/
+  249  ls
+  250  cat HEAD 
+  251  cd ..
+  252  ls
+  253  git status
+  254  git add a.txt
+  255  git status
+  256  git ls-files
+  257  git commit -m "first commit creates a.txt file"
+  258  git status
+  259  git logs
+  260  git log
+  261  git log --online
+  262  git log --oneline
+  263  git log --stat
+  264  git log --graph --oneline -all
+  265  git log --oneline --graph -all
+  266  git show
+  267  git branch -M main
+  268  git remote add origin https://github,com/avinasharyaa/git_training.git
+  269  git push -u origin main
+  270  git remote add origin https://github.com/avinasharyaa/git_training.git
+  271  git remote set-url origin https://github.com/avinasharyaa/git_training.git
+  272  git push -u origin main
+  273  git push -u origin main
+  274  git remote set-url origin https://github.com/avinasharyaa/Git_Trainig.git
+  275  git push -u origin main
+  276  git remote set-url origin https://github.com/avinasharyaa/Git_Trainig.git
+  277  git push -u origin main
+  278  git remote set-url origin https://github.com/avinasharyaa/GitTrainig.git
+  279  git push -u origin main
+  280  git remote set-url origin https://github.com/avinasharyaa/GitTraining.git
+  281  git remote -v
+  282  git push -u origin main
+  283  clear
+  284  GitTraining
+  285  git push -u origin main
+  286  git remote -v
+  287  git ls-remote https://github.com/avinasharyaa/GitTraining.git
+  288  git remote add origin https://github.com/avinasharyaa/GitHub_Bash_Training.git
+  289  git remote -v
+  290  git remote set-url origin https://github.com/avinasharyaa/GitHub_Bash_Training.git
+  291  git remote -v
+  292  git push -u origin main
+  293  clear
+  294  ssh-keygen.exe
+  295  cat  cd .ssh/
+  296  ls
+  297  cd ..
+  298  cd ..
+  299  ls
+  300  cd .ssh/
+  301  ls
+  302  cat id_rsa.pub 
+  303  cat id_rsa
+  304  clear
+  305  ssh -T git@github.com
+  306  ls
+  307  ssh -T git@github.com
+  308  ssh -T git@github.com
+  309  cat ~/.ssh/id_ed25519.pub
+  310  ssh -T git@github.com
+  311  clear
+  312  ls
+  313  vim a.txt
+  314  ls
+  315  cd ..
+  316  ls
+  317  ls
+  318  cd Music
+  319  ls
+  320  cd GIT\ BASH/
+  321  ls
+  322  vim a.txt 
+  323  cat a.txt 
+  324  git status
+  325  git add a.txt
+  326  git status
+  327  git commit -m "added 2nd line"
+  328  git show
+  329  git show HEAD~1
+  330  git show HEAD~2
+  331  touch b.txt
+  332  git add b.txt
+  333  git show
+  334  git status
+  335  vim b.txt
+  336  ls
+  337  git status
+  338  git push -u origin main
+  339  git log
+  340  git show
+  341  git ls-tree
+  342  git ls-tree --name-only HEAD
+  343  LS
+  344  clear
+  345  git log
+  346  ls
+  347  cd M
+  348  cd Music
+  349  cd GIT\ BASH/
+  350  ls
+  351  git log
+  352  git diff 3c62d6 362769
+  353  git log --oneline
+  354  touch file1.txt
+  355  echo "temp file" >> file1.txt
+  356  cat file1.txt 
+  357  ls
+  358  git add.
+  359  git status
+  360  git add .
+  361  git statis
+  362  git status
+  363  git log --oneline
+  364  git commit -m "Add b file and file1"
+  365  git log --oneline
+  366  git push -u origin main
+  367  git log --oneline
+  368  ls
+  369  git rm file1.txt 
+  370  ls
+  371  git status
+  372  ls
+  373  ls -a
+  374  cd .git/
+  375  cat HEAD 
+  376  cd info/
+  377  ls
+  378  cd ..
+  379  ls
+  380  cd logs
+  381  ls
+  382  cd HEAD 
+  383  cat HEAD 
+  384  clear
+  385  ls
+  386  cd refs/
+  387  ls
+  388  cd remotes/
+  389  ls
+  390  cd origin/
+  391  ls
+  392  cat main 
+  393  clear
+  394  history
+  395  history > day1.history.txt
+  396  ls
+  397  git add .
+  398  git commit -m "history "
+  399  ls
+  400  rm  day1.history.txt 
+  401  ls
+  402  cd ..
+  403  cd
+  404  cd Music
+  405  cd GIT\ BASH/
+  406  ls
+  407  history
+  408  ls -a
+  409  history > day1.history.txt
